@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @AlexandreJareck
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreJareck&layout=compact&langs_count=5&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 <p align="left">
