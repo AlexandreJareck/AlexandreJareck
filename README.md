@@ -10,4 +10,4 @@
 src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrejareck&theme=dark&hide_border=false"
 alt="Github Stats"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&reversal=false&descAlignY=49&textBg=false&fontAlign=50&animation=fadeIn&rotate=45&fontSize=50&strokeWidth=1"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false&descAlignY=49&textBg=false&fontAlign=50&animation=fadeIn&rotate=45&fontSize=50&strokeWidth=1"/>
