@@ -1,1 +1,13 @@
 
+<a target="_blank" href="https://www.linkedin.com/in/alexandre-jareck/">
+  <img align="right" src="https://user-images.githubusercontent.com/17799292/129457914-2b555141-8514-4918-8c25-38b5f8ec2939.png" height="20" width="20" />
+</a>
+
+  
+## ⚙️ GitHub Analytics
+
+<img width=100% height="233px" align="left"
+src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrejareck&theme=dark&hide_border=false"
+alt="Github Stats"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=xD&section=header&reversal=false&descAlignY=49&textBg=false&fontAlign=50&animation=fadeIn&rotate=45&fontSize=50&strokeWidth=1"/>
